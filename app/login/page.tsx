@@ -23,8 +23,8 @@ export default function LoginPage() {
                 <p className="mt-1 text-xl font-semibold">1 activo</p>
               </div>
               <div className="rounded-2xl bg-white/10 p-4">
-                <p className="text-sm text-slate-300">Alumnos</p>
-                <p className="mt-1 text-xl font-semibold">24 inscritos</p>
+                <p className="text-sm text-slate-300">Acceso</p>
+                <p className="mt-1 text-xl font-semibold">Acceso exclusivo</p>
               </div>
             </div>
           </CardContent>
